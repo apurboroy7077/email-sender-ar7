@@ -5,6 +5,7 @@ import cors from "cors";
 import morgan from "morgan";
 import { adminRouter } from "./routes/admin/admin.route.js";
 import { userRouter } from "./routes/user/user.route.js";
+import { emailRouter } from "./routes/email/email.route.js";
 
 const app = express(); // Create an Express app
 
@@ -26,6 +27,7 @@ app.use((req, res, next) => {
 app.use(authenticationRouter);
 app.use(adminRouter);
 app.use(userRouter);
+app.use(emailRouter);
 // USING ROUTES ENDS------------------------------------------------------------------------------------------------------------------------
 
 connectDB();
