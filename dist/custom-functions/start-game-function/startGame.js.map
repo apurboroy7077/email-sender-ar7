@@ -1,0 +1,1 @@
+{"version":3,"file":"startGame.js","sourceRoot":"","sources":["../../../src/custom-functions/start-game-function/startGame.ts"],"names":[],"mappings":"AACA,OAAO,kBAAkB,MAAM,gDAAgD,CAAC;AAOhF,MAAM,SAAS,GAAG,CAAC,cAAkC,EAAE,EAAE;IACvD,MAAM,EAAE,MAAM,EAAE,QAAQ,EAAE,GAAG,cAAc,CAAC;IAC5C,kBAAkB,CAAC,MAAM,CAAC,CAAC;AAC7B,CAAC,CAAC;AAEF,eAAe,SAAS,CAAC"}

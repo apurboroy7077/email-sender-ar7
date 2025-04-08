@@ -1,0 +1,12 @@
+const myPromiseFunction = () => {
+    return new Promise(async (resolve, reject) => {
+        try {
+        }
+        catch (error) {
+            console.log(error);
+            reject(error);
+        }
+    });
+};
+export { myPromiseFunction };
+//# sourceMappingURL=promise-function-template.js.map

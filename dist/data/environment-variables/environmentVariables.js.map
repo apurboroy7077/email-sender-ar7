@@ -1,0 +1,1 @@
+{"version":3,"file":"environmentVariables.js","sourceRoot":"","sources":["../../../src/data/environment-variables/environmentVariables.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,mBAAmB,GAAG,OAAO,CAAC,GAAG,CAAC,IAAI,IAAI,IAAI,CAAC;AAC5D,MAAM,CAAC,MAAM,kBAAkB,GAAG,OAAO,CAAC,GAAG,CAAC,IAAI,IAAI,IAAI,CAAC;AAC3D,MAAM,CAAC,MAAM,oBAAoB,GAAG,4FAA4F,CAAC"}

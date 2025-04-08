@@ -1,0 +1,1 @@
+{"version":3,"file":"stopGame.js","sourceRoot":"","sources":["../../../src/custom-functions/stop-game-function/stopGame.ts"],"names":[],"mappings":"AAAA,OAAO,oBAAoB,MAAM,6BAA6B,CAAC;AAE/D,MAAM,QAAQ,GAAG,CACf,cAA4D,EAC5D,EAAE;IACF,MAAM,EAAE,MAAM,EAAE,GAAG,cAAc,CAAC;IAClC,oBAAoB,CAAC,MAAM,CAAC,CAAC;AAC/B,CAAC,CAAC;AAEF,eAAe,QAAQ,CAAC"}

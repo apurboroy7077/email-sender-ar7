@@ -1,0 +1,1 @@
+{"version":3,"file":"mysql.route.js","sourceRoot":"","sources":["../../../src/routes/mysql/mysql.route.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,SAAS,CAAC;AAC9B,OAAO,EAAE,4BAA4B,EAAE,MAAM,gEAAgE,CAAC;AAC9G,MAAM,WAAW,GAAG,OAAO,CAAC,MAAM,EAAE,CAAC;AACrC,WAAW,CAAC,IAAI,CAAC,qBAAqB,EAAE,4BAA4B,CAAC,CAAC;AACtE,OAAO,EAAE,WAAW,EAAE,CAAC"}
